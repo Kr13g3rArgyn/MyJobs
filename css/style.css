@@ -1,0 +1,40 @@
+h1{
+    margin-left: 44%;
+}
+
+body {
+font-family: 'Montserrat', sans-serif;
+    font-size: 14.5px;
+    background: #E6E8EA;
+}
+
+style="margin-left: 750px; margin-top: 7px;
+
+.citata{
+    font-family: monospace;
+    background: #A9A9A9;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    padding: 20px;
+}
+.container{
+        font-family: 'Merriweather', serif;
+}
+.block_inside {
+    margin: 20px;
+    font-family: 'Merriweather', serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Newsreader', serif;
+    padding-top: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: aliceblue;
+    background-size: 0 auto;
+    padding-top: 20px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    
+}
+.image{
+display: inline-block;
+    margin-left: 30px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
